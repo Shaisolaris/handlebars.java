@@ -26,3 +26,5 @@ jacoco.exec
 out
 tmp
 tmp/spotless
+config.bat
+node_modules
